@@ -25,7 +25,7 @@ Azure comes with some built in monitoring, and you can change alerting in Azure.
 <br />Auditing is also built in to Azure DevOps, since all events are tracked with commits and tied to builds.
 <br />Role-Based Access control is easy with Azure.
 <br />Application scaling is, for a bare minimum production service, about $75 a month. It comes with staging (aka dev deployments), 10 daily backups, and automatic load balancing for the scaling. You can scale your single server (scale up) or increase the number of servers (scale out). You set conditions and maximums and are of course only charged for what you use.
-<br />Blue-green deployment. 
+<br />Blue-green deployment is possible, but you do have to name the servers. You could even have blue-green scaling! 
 <br />The instance of this app I've had running since Monday with alerting and automatic scaling has cost around $10, which makes sense since this is such a small app. You could definitely get internal usage like that.
 
 
