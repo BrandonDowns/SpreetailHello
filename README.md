@@ -35,6 +35,7 @@ Clicking "Pipelines" will take you to the build in progress. You're already set 
 Your site deploys to https://$NAME.azurewebsites.net. (Custom URL's are something you can of course pay for and set up)
 
 We can see the site works!  Hello World
+<br /> Will the demo work?
 
 
 Steps to create alerting and view monitoring in Azure
