@@ -14,7 +14,7 @@ Downloaded an IDE - I used Visual Studio IDE
 
 Notes on Azure DevOps
 =====================
-Azure DevOps is pretty impressive, and by telling it that I am build an ASP.net core project, it already knows it has to set up an IIS server and how to cofigure it.
+Azure DevOps is pretty impressive, and by telling it that I am building an ASP.net core project, it already knows it has to set up an IIS server and how to cofigure it.
 <br />Azure will email you when builds are done, or you can hook into any chat app, such as Slack.
 <br />A big drawback to Azure is that too much configuration is manual to create the first time. This is exacerbated by the lack of documentation on how to create and change resources outside of the UI. However, when you've created something for the first time, you can export a json schema, change what you like, and then deploy everything you'd need in Azure for that. Then, you can store your templates in version control. Dev teams, then, could simply change the template for a new application, never having to log in to Azure.
 <br />Azure DevOps will generate a script for you to run on any DevOps instance that will generate your project. You can store these scripts in your version control. I would store them with my puppetfile for this project.
