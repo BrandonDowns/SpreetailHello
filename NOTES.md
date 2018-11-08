@@ -3,6 +3,7 @@ How I started
 Downloaded an IDE - I used Visual Studio IDE 
 <br />Downloaded and looked through the code to discern what the web site is trying to display
 <br />-I saw json, cs, html, and image files, so I set this up as a .net/c# windows project in Visual Studio
+<br />Figured out how litte time I had available, then planned my three hours Wednesday for wrap up.
 <br />I had never used Azure DevOps, so I figured now was a good time to start.
 <br />-used this tutorial: https://docs.microsoft.com/en-us/azure/devops-project/azure-devops-project-github
 <br />Unfortunately, this first Azure setup is pretty manual. I think this is okay for new projects, since automating that would remove important opporunities for conversations.  There are still disadvantages, of course.
